@@ -1,6 +1,6 @@
 # Intro in Git commands
 ## Autors
-Platon Martynov DP1-2
+Platon Martynov 
 
 
 ## Komandas
@@ -11,7 +11,7 @@ git add .
 git commit -m "Veiktas izmaiņas!"
 git push oringin main
 
-  git config --global user.email platon.martynov20@mail.ru"
-  git config --global user.name "Platon Martynov"
+git config --global user.email platon.martynov20@mail.ru"
+git config --global user.name "Platon Martynov"
 
 '''
